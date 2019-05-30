@@ -1,3 +1,11 @@
 ANSI C comment script for Sublime Text 3
 
-  This script allows you to comment out a single line or a block of lines with the ANSI C style comment.
+  This script allows you to comment out a single line or a block of lines with
+  the ANSI C style comment.
+
+INSTALLATION
+
+  Move the ansi_comment.py script to your Sublime Text 3 data folder to the
+  location
+
+    <Sublime Text 3>/Packages/User/ansi_comment.py
